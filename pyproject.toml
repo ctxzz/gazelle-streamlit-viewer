@@ -1,0 +1,16 @@
+[project]
+name = "gazelle-streamlit-viewer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.5",
+    "opencv-python>=4.12.0.88",
+    "pillow>=11.3.0",
+    "scikit-learn>=1.7.1",
+    "streamlit>=1.48.0",
+    "timm>=1.0.19",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+]

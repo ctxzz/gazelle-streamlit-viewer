@@ -3,3 +3,6 @@ opencv-python
 torch
 Pillow
 matplotlib
+torchvision
+timm
+scikit-learn
