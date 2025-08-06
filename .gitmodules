@@ -1,0 +1,3 @@
+[submodule "gazelle"]
+	path = gazelle
+	url = https://github.com/fkryan/gazelle.git
